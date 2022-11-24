@@ -91,20 +91,30 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
 - Rust 톺아보기
 
   + ["The Rust Book"](https://doc.rust-lang.org/book/) 1-3장을 읽어와주시면 감사하겠습니다.
+
     겨울학교에서는 짧은 시간동안 Rust의 소유권 개념과 프로그래밍 도구에 집중할 예정이라,
     Rust의 문법이나 기본적인 도구 사용법은 미리 확인하고 와주시면 효율적인 진행에 매우 큰 도움이 될 것 같습니다.
 
   + [Rust Playground](https://play.rust-lang.org/) 사용해보기
+
     인터넷에서 Rust 프로그램을 실행해볼 수 있는 도구입니다.
 
   + (선택사항) [Compiler Explorer](https://rust.godbolt.org/) 사용해보기
+
     Rust 프로그램이 어떻게 컴파일되는지 확인해볼 수 있는 도구입니다. 저수준 프로그래밍에 관심있으신 분들은 보셔도 좋을 것 같습니다.
 
 - 실습 준비
 
-  + 이 리파지토리를 clone 받아주세요: `git clone git@github.com:kaist-cp/rust-school.git`
+  + 실습 리파지토리 다운로드
+  
+    터미널에서 다음을 실행해주세요:
+    
+    ```
+    git clone git@github.com:kaist-cp/rust-school.git
+    ```
 
-  + 실습 채점 계정을 준비해주세요.
+  + 실습 채점 계정 준비
+
     채점 서버 주소 다음과 같습니다: <https://gg.kaist.ac.kr/course/14/>
     계정 설정 방법은 등록하신 이메일로 보내드릴 예정입니다.
 
