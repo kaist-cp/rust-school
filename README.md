@@ -1,11 +1,12 @@
 # Rust 겨울학교
 
 
-- 강의자: [강지훈](https://cp.kaist.ac.kr/jeehoon.kang)
+- 강의자: [강지훈](https://cp.kaist.ac.kr/jeehoon.kang) (KAIST 전산학부)
 - 시간: 2023/02/08-10 (수-금)
 - 주최: [서울대학교 컴퓨터공학부](https://cse.snu.ac.kr/)
-- 웹사이트: <https://github.com/kaist-cp/rust-school>, <https://gg.kaist.ac.kr/course/14/>
+- 웹사이트: <https://github.com/kaist-cp/rust-school>
 - 공지: [issue tracker](https://github.com/kaist-cp/rust-school/issues?q=is%3Aissue+is%3Aopen+label%3Aannouncement)
+- 채점 서버: <https://gg.kaist.ac.kr/course/14/>
 
 
 ## 소개
@@ -39,7 +40,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
 
 일정은 다음과 같습니다:
 
-- 2023/02/08 (수): Rust 익숙해지기
+- **2023/02/08 (수): Rust 익숙해지기**
 
   첫째날은 variable, loop, enum, match, generics과 같은 프로그래밍 개념들을 다룹니다.
   이 개념들은 사실 Rust의 독특한 특징은 아니고 일반적인 고수준 프로그래밍 언어라면 대체로 갖추는 있는 기능입니다.
@@ -48,7 +49,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
   + 13:00-14:15: CS101 복습 (The Rust Book 1-3, 5)
   + 14:30-13:45: 고수준 프로그래밍 기능 (The Rust Book 6, 9, 10.1, 10.2)
 
-- 2023/02/09 (목): 소유권
+- **2023/02/09 (목): 소유권**
 
   둘째날은 Rust의 핵심인 소유권을 다룹니다.
   소유권의 개념과, 이를 기반으로 어떻게 컴파일 시점에 포인터의 안전성을 분석할 수 있는지 설명할 예정입니다.
@@ -56,7 +57,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
   + 13:00-14:15: 소유권 개념 (The Rust Book 4)
   + 14:30-13:45: 소유권 기반 타입 시스템 (The Rust Book 10.3)
 
-- 2023/02/10 (금): 소유권 응용
+- **2023/02/10 (금): 소유권 응용**
 
   셋째날은 소유권의 두가지 응용을 다룹니다: 스마트 포인터와 병렬 프로그래밍.
   소유권 기반 타입 시스템을 이용해서 어떻게 두 응용에 대한 안전한 API를 제공할 수 있는지 설명할 예정입니다.
@@ -121,5 +122,5 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
       User <your-id>
     ```
 
-    `ssh rust-school`을 통해 접속하실 수 있습니다.
+    터미널에서 `ssh rust-school`을 통해 접속하실 수 있습니다.
     아이디 및 초기 비번은 등록하신 이메일로 보내드릴 예정입니다.
