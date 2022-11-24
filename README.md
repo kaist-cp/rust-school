@@ -3,7 +3,7 @@
 
 - 강의자: [강지훈](https://cp.kaist.ac.kr/jeehoon.kang) (KAIST 전산학부)
 - 시간: 2023/02/08-10 (수-금)
-- 주최: [서울대학교 컴퓨터공학부](https://cse.snu.ac.kr/)
+- 주최: 서울대학교 [컴퓨터연구소](https://ict.snu.ac.kr/), [컴퓨터공학부](https://cse.snu.ac.kr/)
 - 웹사이트: <https://github.com/kaist-cp/rust-school>
 - 공지: [issue tracker](https://github.com/kaist-cp/rust-school/issues?q=is%3Aissue+is%3Aopen+label%3Aannouncement)
 - 채점 서버: <https://gg.kaist.ac.kr/course/14/>
@@ -47,7 +47,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
   이 개념들에 이미 익숙하신 분들은 책만 읽고 오셔도 둘째날부터 참석하시는데 무리가 없으실 것입니다.
 
   + 13:00-14:15: CS101 복습 (The Rust Book 1-3, 5)
-  + 14:30-13:45: 고수준 프로그래밍 기능 (The Rust Book 6, 9, 10.1, 10.2)
+  + 14:30-15:45: 고수준 프로그래밍 기능 (The Rust Book 6, 9, 10.1, 10.2)
 
 - **2023/02/09 (목): 소유권**
 
@@ -55,7 +55,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
   소유권의 개념과, 이를 기반으로 어떻게 컴파일 시점에 포인터의 안전성을 분석할 수 있는지 설명할 예정입니다.
 
   + 13:00-14:15: 소유권 개념 (The Rust Book 4)
-  + 14:30-13:45: 소유권 기반 타입 시스템 (The Rust Book 10.3)
+  + 14:30-15:45: 소유권 기반 타입 시스템 (The Rust Book 10.3)
 
 - **2023/02/10 (금): 소유권 응용**
 
@@ -63,7 +63,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
   소유권 기반 타입 시스템을 이용해서 어떻게 두 응용에 대한 안전한 API를 제공할 수 있는지 설명할 예정입니다.
 
   + 13:00-14:15: 스마트 포인터 (The Rust Book 15)
-  + 14:30-13:45: 병렬 프로그래밍 (The Rust Book 16, [Rayon](https://docs.rs/rayon/latest/rayon/))
+  + 14:30-15:45: 병렬 프로그래밍 (The Rust Book 16, [Rayon](https://docs.rs/rayon/latest/rayon/))
 
 
 ## 실습
