@@ -44,7 +44,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
 
   겨울학교가 시작하기 전에 프로그래밍 기초 개념을 자습하고 와주시길 부탁드립니다 (The Rust Book 1-3, 5, 6, 9, 10.1, 10.2).
   변수, 함수, if, loop 등 다른 언어에도 널리 쓰이는 개념이니 쉽게 자습하실 수 있으리라 생각합니다.
-  아래 숙제를 해결한 분들에 한해 겨울학교 등록을 진행할 예정입니다 (채점 서버가 곧 제공될 예정입니다):
+  **겨울학교가 시작하기 전에 아래 숙제를 해결해보시길 적극 추천드립니다:**
 
   + <https://github.com/kaist-cp/cs220/blob/main/src/assignments/assignment02.rs>
   + <https://github.com/kaist-cp/cs220/blob/main/src/assignments/assignment03.rs>
