@@ -50,7 +50,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
   + <https://github.com/kaist-cp/cs220/blob/main/src/assignments/assignment03.rs>
   + <https://github.com/kaist-cp/cs220/blob/main/src/assignments/assignment06.rs>
 
-- **2023/02/08 (수): 프로그래밍 기초 개념과 소유권**
+- **2023/02/08 (수): 프로그래밍 기초 개념 복습 및 소유권**
 
   첫째날은 프로그래밍 기초 개념을 복습한 다음 Rust의 핵심 개념인 소유권을 다룹니다.
   소유권은 Rust 핵심 개념으로써 컴파일 시점에 성능 오버헤드 없이 포인터의 안전성을 분석하는 기법입니다.
