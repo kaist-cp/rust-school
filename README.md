@@ -112,7 +112,9 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
     ```
 
     터미널에서 `ssh rust-school`을 통해 접속하실 수 있습니다.
-    아이디 및 초기 비번은 [채점 서버](https://gg.kaist.ac.kr/course/14/)를 통해 알려드릴 예정입니다 (TBA).
+    
+    + 아이디: [채점 서버](https://gg.kaist.ac.kr/course/14/) 아이디와 같음
+    + 비밀번호: <https://gg.kaist.ac.kr/event/25/> "Your token"
 
 
 - Rust 톺아보기
