@@ -29,6 +29,7 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
 다음 두 교과서를 기준으로 강의를 진행할 예정입니다:
 
 - [The Rust Book](https://doc.rust-lang.org/book/)
+  + [한국어 버전](https://rinthel.github.io/rust-lang-book-ko/)
 - [Slides](https://docs.google.com/presentation/d/1LbiQ1Z3FTjp1144GRwEj3EPNj-RspAthlsq3a0PCQHw/edit?usp=sharing)
 
 
