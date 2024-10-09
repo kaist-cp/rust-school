@@ -125,3 +125,18 @@ Java와 같이 안전한 소프트웨어를 작성하기에 용이한 프로그�
 <!--   + <https://github.com/kaist-cp/cs220/blob/main/src/assignments/assignment02.rs> -->
 <!--   + <https://github.com/kaist-cp/cs220/blob/main/src/assignments/assignment03.rs> -->
 <!--   + <https://github.com/kaist-cp/cs220/blob/main/src/assignments/assignment06.rs> -->
+
+- 클라우드 접속
+
+  + https://cloud.fearless.systems/ 접속
+    * "OpenID Connect"로 로그인
+    * 아이디: hyundai@fearless.systems
+    * 비번: (추후 공지)
+
+  + 기 생성된 "20241010" 서버에 접속
+
+  + VSCode가 설치된 PC에서는 "VS Code Desktop" 눌러서 앱으로 접속,
+    아닌 곳에서는 "code-server" 눌러서 웹으로 접속
+
+  + 수강생 번호에 따라 (예: "03") "\~/20241010/03/cs220", "\~/20241010/03/cs431" 폴더를 vscode에서 열어서 사용
+    다른 번호로 접속하면 혼선이 생기므로 자제 요망
