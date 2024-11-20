@@ -5,7 +5,7 @@
 - 시간
   + 2024/08/28-29 (수-목)
   + 2024/10/10-11 (목-금)
-  + 2024/10/21-22 (월-화)
+  + 2024/11/21-22 (목-금)
 - 주최: 현대오토에버
 - 웹사이트: <https://github.com/kaist-cp/rust-school>
 - 공지: [issue tracker](https://github.com/kaist-cp/rust-school/issues?q=is%3Aissue+is%3Aopen+label%3Aannouncement)
